@@ -1,0 +1,6 @@
+{
+  "name": "Vigilant Clarity",
+  "description": "Personal and family digital protection workspace for phishing URL inspection, SMS scam screening, and device safety posture.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
